@@ -2310,6 +2310,11 @@ input, select, textarea {
 
 /* Image */
 
+	.profile-pic {
+		width: 80vh;
+		height: auto;
+	}
+
 	.image {
 		border-radius: 4px;
 		border: 0;
