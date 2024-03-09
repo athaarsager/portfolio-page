@@ -2313,6 +2313,7 @@ input, select, textarea {
 	.profile-pic {
 		width: 80vh;
 		height: auto;
+		margin-bottom: 2rem;
 	}
 
 	.image {
